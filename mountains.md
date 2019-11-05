@@ -1,4 +1,4 @@
-A sample project about Cats
+A worked git exemplar about Cats 
 ================================
 
 Here is a list of mountains in England:

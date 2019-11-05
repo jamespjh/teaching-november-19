@@ -1,4 +1,4 @@
-A worked git exemplar about Cats 
+A worked git exemplar about Mountains
 ================================
 
 Here is a list of mountains in England:

@@ -1,4 +1,4 @@
-A sample project about Mountains
+A sample project about Cats
 ================================
 
 Here is a list of mountains in England:

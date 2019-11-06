@@ -1,4 +1,4 @@
 Here are some rivers
 =============
 
-* The Thames
+* The River Thames
